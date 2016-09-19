@@ -2,7 +2,7 @@
 galaxy_info:
   author: James Pic
   description: |
-    Ansible role to setup an ssh client, for use with ansible-boot-* roles
+    Ansible role to setup an ssh agent.
   company: PeopleDoc
   license: BSD
   min_ansible_version: 2.0
