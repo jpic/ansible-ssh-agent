@@ -24,4 +24,5 @@ This will:
   ``ssh_insecure``).
 
 While this may be useless on an actual control machine, because obviously an
-ssh agent would already be properly configured, this is pretty useful for CI.
+ssh agent would already be properly configured, this is useful to execute tests
+on empty containers.
